@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Codewars](https://www.codewars.com/users/sagarbetkar/badges/large)
+![JavaScript (Intermediate) Certificate](https://www.hackerrank.com/certificates/5db3f56cff90)
 <!--
 **sagarbetkar/sagarbetkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
