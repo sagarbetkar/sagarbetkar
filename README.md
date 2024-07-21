@@ -6,7 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sagarbetkar&theme=react&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagarbetkar&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 <!--
 **sagarbetkar/sagarbetkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
